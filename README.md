@@ -9,6 +9,9 @@
 - ALT + NUM + = ズーム数値+25
 - ALT + NUM - = ズーム数値-25
 
+# インストール
+dataフォルダ直下にipfファイルを置いてください
+
 # その他
 - ズーム範囲 : 50～750
 - 参考元 (Zoomy) : https://github.com/Excrulon/Tree-of-Savior-Addon-Manager/
