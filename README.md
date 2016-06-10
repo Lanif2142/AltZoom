@@ -11,8 +11,8 @@ https://github.com/Lanif2142/AltZoom/raw/master/%E2%98%83altzoom.ipf
 - ALT + NUM 7 : ズーム数値400
 - ALT + NUM 8 : ズーム数値450
 - ALT + NUM 9 : ズーム数値500
-- ALT + NUM + : ズーム数値-10（拡大）
-- ALT + NUM - : ズーム数値+10（縮小）
+- ALT + NUM + : ズーム数値-10 （拡大）
+- ALT + NUM - : ズーム数値+10 （縮小）
 
 # 備考
 - ズーム範囲 : 50～750
