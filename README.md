@@ -1,3 +1,8 @@
+# インストール
+https://github.com/Lanif2142/AltZoom/raw/master/%E2%98%83altzoom.ipf
+
+上のURL先ファイルを保存して、dataフォルダ直下にファイルを置いてください
+
 # Alt Zoom
 操作方法 :
 - ALT + NUM 4 : ズーム数値250 （ほぼデフォルトと同じ）
@@ -9,8 +14,7 @@
 - ALT + NUM + : ズーム数値+25
 - ALT + NUM - : ズーム数値-25
 
-# インストール
-dataフォルダ直下にipfファイルを置いてください
+
 
 # 備考
 - ズーム範囲 : 50～750
