@@ -1,5 +1,5 @@
 # How to Install
-https://github.com/Lanif2142/AltZoom-En/raw/master/%E2%98%83altzoom.ipf
+https://github.com/Lanif2142/AltZoom/raw/master/%E2%98%83altzoom.ipf
 
 save file and place to under TreeOfSavior\data
 
